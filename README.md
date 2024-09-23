@@ -24,9 +24,7 @@
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='h# CollomeV9
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<a href="https://ibb.co/6Bs6Tjm"><img src="https://i.ibb.co/DpK3v0t/4d2079fa319de6bb5b922c4e8836b23a.jpg" alt="4d2079fa319de6bb5b922c4e8836b23a" border="0"></a> 
-<p align="center">
+
   
 
 
