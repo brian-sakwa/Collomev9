@@ -40,10 +40,3 @@
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ffur7K3PqkM?si=J1dsdRa2qgAznUaG)
 
-<p align="center">
-<a href="https://wa.me/254748895682"><img src="https://img.shields.io/badge/Contact Collome-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VagJS3S0LKZJzeN30G0G"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-
- 
