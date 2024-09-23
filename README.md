@@ -31,9 +31,5 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/Collomeknec/Collomev9/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork CollomeV9" width="70"></a>
-### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
-### 3. <a href="https://pylexnodes.net
 
