@@ -1,4 +1,4 @@
-# Brayotechnology
+# BRAYOW-TECH 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://ibb.co/6Bs6Tjm"><img src="https://i.ibb.co/DpK3v0t/4d2079fa319de6bb5b922c4e8836b23a.jpg" alt="4d2079fa319de6bb5b922c4e8836b23a" border="0"></a> 
